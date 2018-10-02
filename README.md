@@ -1,2 +1,2 @@
 # Minesweeper
-This an old-fashioned MineSweeper game to be played on the console.
+This an old-fashioned 2D MineSweeper game to be played on the console.
